@@ -78,3 +78,4 @@ Botany/Intermediate/**
 #Mac config files
 **/.DS_Store
 
+Botany/Platforms/HoloLens/Config/HoloLensEngine.ini
