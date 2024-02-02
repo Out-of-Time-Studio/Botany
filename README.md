@@ -1,2 +1,2 @@
 # Botany
-Botany is a temporary dev name
+Botany is a chill alchemy RPG game.
